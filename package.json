@@ -34,7 +34,7 @@
         "redux-logger": "^3.0.6",
         "redux-thunk": "^2.3.0",
         "reselect": "^4.0.0",
-        "styled-jsx": "3.3.2"
+        "styled-jsx": "3.4.4"
     },
     "scripts": {
         "start": "d2-app-scripts start",
