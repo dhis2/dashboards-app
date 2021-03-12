@@ -198,19 +198,19 @@ msgid "View as Chart"
 msgstr "Zobrazit jako graf"
 
 msgid "This map can't be displayed as a chart"
-msgstr ""
+msgstr "Tuto mapu nelze zobrazit jako graf"
 
 msgid "View as Table"
 msgstr "Zobrazit jako tabulku"
 
 msgid "This map can't be displayed as a table"
-msgstr ""
+msgstr "Tuto mapu nelze zobrazit jako tabulku"
 
 msgid "View as Map"
 msgstr "Zobrazit jako mapu"
 
 msgid "There was a problem loading interpretations for this item"
-msgstr ""
+msgstr "Při načítání interpretací této položky došlo k problému"
 
 msgid "Unable to load the plugin for this item"
 msgstr "Nelze načíst plugin pro tuto položku"

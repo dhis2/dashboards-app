@@ -182,19 +182,19 @@ msgid "View as Chart"
 msgstr "查看图表"
 
 msgid "This map can't be displayed as a chart"
-msgstr ""
+msgstr "该地图无法显示为图表"
 
 msgid "View as Table"
 msgstr "查看表格"
 
 msgid "This map can't be displayed as a table"
-msgstr ""
+msgstr "该地图无法显示为表格"
 
 msgid "View as Map"
 msgstr "查看地图"
 
 msgid "There was a problem loading interpretations for this item"
-msgstr ""
+msgstr "加载该项目的解释时出现问题"
 
 msgid "Unable to load the plugin for this item"
 msgstr "不能载入该条目的插件"
